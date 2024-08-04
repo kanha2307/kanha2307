@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Piyush !](https://twitter.com/Piyush3Dewangan)
+### Hi there 👋 I'm [Kanha!]
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,firebase,git,nodejs,mysql,react,java,mongodb,express)
 <!--
 **Piyush0369/Piyush0369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
