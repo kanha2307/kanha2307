@@ -1,3 +1,5 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
 ### Hi there 👋 I'm [Kanha!]
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,firebase,git,nodejs,mysql,react,mongodb,express)
 <!--
