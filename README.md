@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 ### Hi there 👋 I'm [Kanha!]
-![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,firebase,git,nodejs,mysql,react,mongodb,express)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,firebase,git,nodejs,mysql,react,mongodb,express,dynamodb,reactnative)
 <!--
 **Piyush0369/Piyush0369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <summary>Github Stats ⚡</summary>
   
   [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=kanha2307)](https://github.com/kanha2307)
-  <!--<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Piyush0369&show_icons=true&theme=blueberry&count_private=true&hide_border=true&line_height=30)</a>-->
+
 
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanha2307&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
