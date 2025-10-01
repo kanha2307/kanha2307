@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
 
 ### Hi there 👋 I'm Kanha
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,firebase,git,nodejs,mysql,react,mongodb,express,dynamodb,aws,github,reduxts,angular,blender,bootstrap,gcp,materialui,postman,replit,sass,stackoverflow)
