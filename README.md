@@ -17,12 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<summary>Github Stats ⚡</summary>
-  
-  [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=kanha2307)](https://github.com/kanha2307)
-
-
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanha2307&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=kanha2307.kanha2307)
